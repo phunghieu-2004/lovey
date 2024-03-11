@@ -564,8 +564,8 @@ body{
 }
 .boxLetter .formLetter{
     position: relative;
-    width: 600px;
-    height: 350px;
+    width: 700px;
+    height: 450px;
     background-color: #FFEBEB;
     border-radius: 20px;
     z-index: 100;
@@ -582,8 +582,8 @@ body{
 }
 .boxLetter .before{
     position: absolute;
-    width: 600px;
-    height: 350px;
+    width: 700px;
+    height: 450px;
     background: #fff;
     transform: rotate(-15deg);
     border-radius: 20px;
